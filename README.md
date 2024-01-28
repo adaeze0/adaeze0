@@ -9,17 +9,17 @@
 - <b>EXPLORING THE SIMILARITY OF BEER BASED ON THEIR COMPOSITION AND REVIEW THROUGH K-MEANS AND AGGLOMERATIVE CLUSTERING ALGORITHMS</b>
   - [Exploring similarity of Beer Composition](https://github.com/adaeze0/BeerSimilarity)
 - <b>TEXT MINING AND SENTIMENT ANALYSIS IN CYBER BULLYING DETECTION</b>
-  - [Sentiment Analysis](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Sentiment Analysis](https://github.com/adaeze0/sentimentAnalysis)
 
 
 <h2>👨‍💻 Here is a list of my Software Development Projects:</h2>
 
 - <b>Voterman (A voting system for Hackathon projects)</b>
-  - [VOTERMAN](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [VOTERMAN](#)
 - <b>SMART ERP (An ERP system for a NEWSPAPER HOUSE)</b>
-  - [Smart ERP](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Smart ERP](#)
 - <b>FINANCE MANAGEMENT SOFTWARE FOR SCHOOL</b>
-  - [VSMS](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [VSMS](#)
 
 
 
