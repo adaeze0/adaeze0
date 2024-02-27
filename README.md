@@ -1,4 +1,4 @@
-<h1>HI, I'm Adaeze! <br/></h1><h3>A Software Developer, Data Scientist, Technical Support Engineer </h3>
+<h1>HI, I'm Adaeze! <br/></h1><h3>A Software Developer, Data Scientist, Technical and Product Engineer </h3>
 
 <h2>👨‍💻 Here is a list of my Machine learning projects :</h2>
 
